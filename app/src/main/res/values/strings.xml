@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">SQLite App</string>
+    <string name="enter_roll">Enter Roll</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_marks">Enter Marks</string>
+    <string name="read_data">Read Data</string>
+    <string name="update_data">Update Data</string>
+    <string name="delete_data">Delete Data</string>
+    <string name="roll_number">Roll Number</string>
+    <string name="name">Name</string>
+    <string name="marks">Marks</string>
 </resources>
